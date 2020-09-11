@@ -1,0 +1,59 @@
+body {
+  background-color: #b3e7ff;
+  font-family: 'Share Tech Mono', monospace;
+}
+
+.banner {
+  background-image: url("images/banner.jpg");
+  background-size: cover;
+  color: white;
+  padding: 120px 60px;
+}
+.banner h1 {
+  font-size: 46px;
+  font-weight: bold;
+}
+.banner p {
+  font-size: 30px;
+  font-style: italic;
+  font-weight: bold;
+  opacity: 0.8;
+}
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+.session h2 {
+  font-size: 42px;
+  color: #006999;
+}
+
+.session p {
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 25px;
+  color: #666666;
+  margin: 40px auto;
+}
+
+.session ul {
+  font-size: 25px;
+  color: #666666;
+}
+
+.link-medium {
+  background-image: linear-gradient(to bottom, rgba(0, 105, 153, 1), rgba(0, 105, 153, 1));
+  color: white;
+  padding: 15px 20px;
+  font-weight: lighter;
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: none;
+}
+.link-medium:hover {
+  color: #006999;
+  background-image: linear-gradient(to bottom, white, white);
+}
+å
